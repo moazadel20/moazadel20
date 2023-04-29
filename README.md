@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Moaz+Adel!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
+</p>
+
+
 
 I'm Moaz Adel Fathalla . You can mostly find me on [LinkedIn](https://www.linkedin.com/in/moazadelghanem) or [Twitter](https://twitter.com/@moazadelghanem).
 
@@ -30,3 +35,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
