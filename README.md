@@ -17,7 +17,7 @@ I'm Moaz Adel Fathalla . You can mostly find me on [LinkedIn](https://www.linked
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:adelmoaz73@gmail.com) 
 
 <!--
-**Ananasa/Ananasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Moaz ADEL Fathalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
